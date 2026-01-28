@@ -1,5 +1,5 @@
 {
-  "name": "text-package",
+  "name": "mkurbatov-test-package",
   "version": "0.1.1",
   "description": "This is an n8n community node. It lets you parse and generate EML files (RFC 822) in your workflows.",
   "keywords": [
